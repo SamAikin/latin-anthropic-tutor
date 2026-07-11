@@ -1,0 +1,17 @@
+# Vocab Master List
+
+Use this file as guidance about how to append new data to the vocab file, and remember this file is **APPEND ONLY** so don't touch existing history, just add new sections with the following pattern.
+
+## Planning Notes
+
+A brief description of the vocab goals being added with this planning session. Notes here might call out a particular theme such as legal terms, ciceros speeches, caesar's gallic wars, frequency maximization, etc. Consider this section fairly optional, and there is likely very little information here, but it may help me understand why you picked the words you picked.
+
+## Week <n>
+
+* entry-in-dictionary-form: (optional)grammar-or-usage-notation "-" english dictionary defintion."<br>"
+example sentence that uses **<vocab-word>** in actual usage or even better a real historical example.
+(next entry, etc. - there should be 70 to 75 vocab entries for the week.
+
+## Week <n+1>
+
+etc. - pattern from above repeats, for each week of vocab being planned during the session.

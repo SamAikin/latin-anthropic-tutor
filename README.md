@@ -10,6 +10,13 @@ Then daily lessons will worked through with the Sonnata model on Medium effort (
 the effort will be bumped up to High).
 Sonnata will be more efficient here because during the daily lessons the model only needs to follow **THE PLAN** not create it.
 
+## Week Conventions
+
+The week of July 6 2026 will be **WEEK 0** for our context.
+Weeks begin on Monday.
+We will not necessarily have work every week - but the goal is that I will.
+You should keep as part of your **STATEFUL RECORD** in ./claude-notes/ which weeks we do what, and should be able to state from ./claude-notes/ something like "the reason you can't find any lesson-week17-m folders is because we did not have any lessons that week."
+
 ## Study Approach
 
 Since latin is a **READ LANGUAGE** and there is no pronunciation practice *per se*, claude will be generating all of the primary text, grammar, and vocab that I will be working with.
@@ -22,11 +29,13 @@ Laying out the topographic tops of this approach:
 Using the information from ./lessons/<lesson-dir>/lesson-notes.md and information from ./claude-notes/... we can tailor the next 4 weeks depending on what I am struggling with (more focus) or what I
 seem to pick up intuitively (less focus).
 
-**LESSONS** - each lesson will be a directory in the ./lessons/ directory, and should follow the naming format **lesson-<YYYYMMDD>** which will help us maintain a very clear history, and make it easy for me to review any specific lesson. I will have a skill written for teaching a lesson, and a part of this will be generating this lesson folder. In the folder expect to find: lesson-notes.md, vocab-and-grammar.md, transcript.md, homework.md. There may be other files as well. For each week of study, there will be 4 lessons.
+**LESSONS** - each lesson will be a directory in the ./lessons/ directory, and should follow the naming format **lesson-<weekn>-<m>** which will help us maintain a very clear history, and make it easy for me to review any specific lesson. I will have a skill written for teaching a lesson, and a part of this will be generating this lesson folder. In the folder expect to find: lesson-notes.md, vocab-and-grammar.md, transcript.md, homework.md. There may be other files as well. For each week of study, there will be 4 lessons.
+
+**TEMPLATES** - these are skeletons of common files, such as vocab.md or syllabus.md. The convention is these will have the same name but end in `.template` instead of `.md` but will be just plain text files in markdown syntax.
 
 **LESSON-NOTES.md** - this file should follow the template in ./templates/lesson-notes.template, but is the key state record of our teaching sessions. A lesson may focus on grammar, on a specific text, or even a study of stylistic differences between authors using the original language.
 
-**HOMEWORK.md** - Each lesson will have homework that should take between 15 and 45 mins to complete (roughly - we can fine tune as we learn each other's abilities using your ./claude-notes/ **STATE** information. The homework should be aimed at what is most relevant. It can be a translation exercise leaning heavily into known vocab, it can be grammar exercises to ensure understanding, etc. Before starting the next lesson, I will use a grade homework skill to have you grade my homework. A note on organization, homework belongs to the lesson it is assigned in and **STATE INFORMATION ON HOMEWORK PERFORMANCE** should be recorded in that lesson's lesson-notes.md.
+**HOMEWORK.md** - Each lesson will have homework that should take between 15 and 45 mins to complete (roughly - we can fine tune as we learn each other's abilities using your ./claude-notes/ **STATE** information. The homework should be aimed at what is most relevant. It can be a translation exercise leaning heavily into known vocab, it can be grammar exercises to ensure understanding, etc. Before starting the next lesson, I will use a grade homework skill to have you grade my homework. A note on organization, homework belongs to the lesson it is assigned in and **STATE INFORMATION ON HOMEWORK PERFORMANCE** should be recorded in that lesson's lesson-notes.md. Homework will live in the lesson folder next to lesson-notes.md and should be called homework.md.
 
 **VOCAB** - I will hold myself accountable to learning 70 words per week, 10 per day. I will use Anki as my SRS so that I **really learn** these words, and will capture other grammar concepts, etc. as needed. Each time we re-generate the syllabus, we need to append 4 weeks of new vocab to ./vocab.md. This list should not have duplicates, so each week should have 70 new words. The list should split out vocab for each week (70 words - you can add a few extra if it makes sense for highly thematic word groups), it should provide the dictionary form of each word, grammatical or historical context notes that may be appropriate (optional), an example sentence with the word, brief dictionary definition of the word in english. I will expect you to keep notes in ./claude-notes/ in whatever form will be most useful for you so that we maintain state about vocab I seem to know well and vocab I seem to be struggling with so future syllabi can be tailored as appropriate. You choose the words, and can use thematic relevance, lesson plan relevance etc., but word use frequency is very important as I want to ensure that we are gaining as much ground speed towards fluency as possible with each word.
 
