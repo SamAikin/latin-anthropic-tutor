@@ -46,6 +46,28 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-11 Lesson w01-1 (early — scheduled for w01 but run before Jul 13)
+
+**Overall:** Strong performance. Case logic active and fast; the rusty corners are conscious now, not just reflex.
+
+**Solid:**
+- Neuter rule (bella, bellōrum) — no hesitation, correct instinct
+- Genitive possession — built phrases correctly, identified function well
+- Accusative/genitive plural forms — clean
+- Ambiguity-resolution model — articulated it clearly and correctly (quantum superposition analogy); understands that context/verb collapses the reading, and that deliberate ambiguity exists in poetry
+- Read opening of In Catilinam (*Quo usque tandem...*) correctly on first pass with good analysis of the vocative's rhetorical function
+
+**Needed correction:**
+- Vocative -us/-ius distinction: reversed on first attempt (*Marci* for *Marcus*, *Filie* for *filius*). Got it immediately after explanation. Pattern: -us → -e (normal); -ius → -ī (exception). Also: contracted names like *Gaius* → *Gai* (not *Gaii*) needed one correction.
+- Macron-as-disambiguator: thought macron distinguished dative from ablative on -ō and -īs forms. Corrected: both dative and ablative share the same macron; only context resolves them.
+- Ambiguity on *agrī*: initially said "nominative" only; needed prompting to name the gen. sg. reading as well.
+- *consilium* guessed as "consensus" (correct: plan/counsel/strategy). Worth watching — high-frequency word.
+- *senatus*: correctly identified as genitive but called it 5th declension (correct: 4th). Not a reading problem yet; will resolve when w02-1 covers decl 4–5.
+
+**Spelling typos in Latin production:** *Fillia* (→ *filia*), *aguam* (→ *aquam*). Likely keyboard slips, not morphology errors — no pattern yet.
+
+**Affect/meta:** Engaged and confident. Self-flags uncertainty accurately ("I'm guessing"). Historical hook (Catilina) landed well — noted he'll read that speech in week 4. Requested extra vocative practice unprompted — good sign of active ownership.
+
 ### 2026-07-11 Placement diagnostic (5 tiers, in-chat, first plan-syllabus run)
 
 Headline: **metalanguage runs AHEAD of deployment; vocab is the weakest layer.**
