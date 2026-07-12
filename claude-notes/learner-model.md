@@ -46,6 +46,41 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-11 Lesson w01-1 HOMEWORK (graded same day, Opus-class)
+
+**Overall:** Strong pass. Case/function ID 8/8; translation comprehension 5/5.
+Everything attempted was correct — deductions are narrow and mostly non-Latin.
+
+**Retention wins (lesson correction → homework success, ~same day):**
+- `consilium`: lesson miss ("consensus") → correct "plan" (C2). Stuck.
+- `-us`→`-e` vocative: reversed in lesson → read `Domine` correctly as address (C3). Holding.
+
+**Watched habit resolved (was: lands on one reading of an ambiguous form):** now names
+both — B8 `poetae` gen. + dat. named unprompted with correct meanings; B7 `bella` and C5
+stacked `-ae`/`-a` resolved correctly by context. Reclassify from "watch" to strength.
+
+**Solid:** neuter plurals under load mostly (A2 `oppida`, B7 `bella`, C5 `dona` all
+correct); genitive of possession clean throughout; `e`/`ex` alternation — guessed the
+rule correctly himself (`ex` before vowels, `e` before consonants); left voc. pl. `Amici`
+as-is instead of over-applying `-e`.
+
+**Needed correction:**
+- **Vocative omitted from BOTH Section A declensions** (5 rows not 6, despite "all six
+  cases"). NOT a knowledge gap (see B4/C3). Completeness/instruction-following habit —
+  the only recurring theme. Told him to write six labeled rows every time. Also: our own
+  `bellum` reference table drops the voc. row — normalize our tables so we don't model the
+  omission.
+- B8: glossed `filiam` as "son" — grammar perfect, vocab slip (daughter). Isolated.
+- C4: neuter acc. pl. `bella` rendered singular "war." Slip under translation load only —
+  he had neuter plural cold in three other spots same assignment.
+
+**Still open (not homework problems):** `senatus` class (4th, mislabeled 5th) — reading
+function intact, will resolve w02 decl 4–5.
+
+**Affect/meta:** Honesty continues excellent — flagged every lookup (`monstrat`, `inopia`,
+`frumentum`) and every guess (`e`/`ex`), and invited harsh grading on C5 (which was
+correct). Trust his uncertainty flags. No remediation needed before declension 3.
+
 ### 2026-07-11 Lesson w01-1 (early — scheduled for w01 but run before Jul 13)
 
 **Overall:** Strong performance. Case logic active and fast; the rusty corners are conscious now, not just reflex.
