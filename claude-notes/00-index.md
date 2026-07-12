@@ -15,6 +15,10 @@ My private state space for the Latin study project. Organization:
   first — do not assume.
 
 Conventions for myself:
+- Sitreps: when the user asks to save one, archive to /reference/sitrep-YYYYMMDD.md
+  (convention established 2026-07-12; dir created then — distinct from /research/).
+  The Cicero elder-statesman costume landed very well ("it's great") — keep the
+  hard-won-praise register.
 - Shared findings/decisions go in /plan-assessment.md (root) — do not duplicate here,
   only keep working state and things not for the shared contract.
 - Update learner-model.md after every graded homework and evaluated reading.
