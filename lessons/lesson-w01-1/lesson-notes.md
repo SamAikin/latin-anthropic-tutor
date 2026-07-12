@@ -53,7 +53,32 @@ afterward, before you turn it in — mark anything you had to correct.
 
 ## Homework Evaluation
 
-(placeholder — completed when homework is graded)
+Graded 2026-07-11 (same day as lesson; homework turned in fast). **Strong pass.**
+Case-and-function ID 8/8, translation comprehension 5/5. Everything attempted was
+correct; deductions are narrow.
+
+- **One real miss:** vocative omitted from BOTH Section A declensions (wrote 5 rows, not
+  6, despite "all six cases"). Not a knowledge gap — he produced the vocative correctly in
+  B4 (`Amici`) and C3 (`Domine`). It's a write-it-all-out completeness habit. Corrected:
+  always lay down six labeled rows. (Our own `bellum` reference table omits the voc. row,
+  which may have modeled the pattern — worth normalizing our tables too.)
+- **Two small slips inside correct answers:** B8 glossed `filiam` as "son" (grammar
+  perfect, vocab slip — it's daughter); C4 rendered neuter pl. `bella` as singular "war"
+  (should be "wars"). The `bella` slip is under-load only — he had neuter plural cold in
+  A2, B7, and C5's `dona`.
+- **Two lesson corrections retained:** `consilium` (lesson miss "consensus" → homework
+  "plan," C2) and the `-us`→`-e` vocative (reversed in lesson → read correctly as
+  `Domine`, C3). Loop closed.
+- **Watched habit moved the right way:** the "name both readings of an ambiguous form"
+  habit — flagged in the lesson as a thing to watch — showed up unprompted in B8 (named
+  gen. + dat. for `poetae`) and in silent correct resolution (B7 `bella`, C5 stacked
+  `-ae`/`-a`). This is no longer a concern; it's a strength.
+
+**Carry into next planning:** (1) the only recurring theme is completeness/instruction-
+following, not Latin — a note to self on task framing, not a re-teach. (2) `senatus`
+declension class still unresolved (4th, not 5th) but reading function is intact — will
+land naturally in w02 decl 4–5. (3) Self-calibration and honesty remain excellent (flags
+every lookup/guess). No remediation needed before declension 3.
 
 ## Evaluation Notes
 
