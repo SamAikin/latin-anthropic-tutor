@@ -46,6 +46,39 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-12 Reading w01-1 forum-romanum EVALUATED (Fable 5; done ahead of w01 start Jul 13)
+
+**Overall:** Genuine in-situ comprehension — scene tracked, case functions clean
+(rei publicae gen., merces suas, ad praetorem), and TWO idioms correctly inferred from
+context unprompted: verba facit ("talks about") and ius dicit ("ruling on the law" —
+he reasoned his way to the technical sense of iurisdictio). Inference-from-context is
+emerging as a real strength.
+
+**Misses (clustered, not scattered):**
+- **hic as adverb — missed TWICE.** "Hic senator...Illic mercator" → read Hic as "this"
+  (caught Illic = there); worse, "Quod hic populus...vitam agit" → "this gives the roman
+  people their lives" (sentence meaning distorted; adverb hijacked the parse even though
+  he rendered vitam agunt correctly one sentence later). WATCH: hic/ille demonstratives
+  are lesson w02-2 — fold the adverb hic/huc/hinc vs. demonstrative hic distinction in
+  there explicitly.
+- **Future tense flattened to present:** veniet/vocabit → "comes"/"speaks." Consistent
+  with diagnostic finding (tense discipline degrades under load). BUT: tense system is
+  lesson w01-3, not yet taken — watch there, don't drill now. Reading design note to
+  self: I put futures in a reading-1 slot that should stay a construction behind; the
+  miss is partly my sequencing.
+- **vocabit → "speaks"** (voco confused toward vox/verba). voco is high-frequency; check
+  it's getting SRS exposure.
+- **False friends:** magistris → "magistrates" (magister=teacher); exspectant → "expect"
+  (scene comprehension still right). Start a false-friend watch list: magister,
+  exspecto (+ his own earlier consilium→"consensus", same family of error).
+- Minor: prope → "before" (scene intact); leges legimus → "laws are read" (dropped 1st
+  pl. in English only — kept "we see/we serve" right after; smoothing, not morphology).
+
+**Affect/meta:** Bracketed-aside convention (his own invention) works well — he flags
+extrapolations and reasoning honestly, invites correction. Historical curiosity active
+(Caesar/curia joke → taught Curia of Pompey fact). Continue rewarding asides with real
+answers.
+
 ### 2026-07-11 Lesson w01-1 HOMEWORK (graded same day, Opus-class)
 
 **Overall:** Strong pass. Case/function ID 8/8; translation comprehension 5/5.
@@ -144,3 +177,14 @@ scio, fugio, pugno, dico, eo, sum, magnus, consul, vir, pater, annus.
 Diagnostic-slipped words assigned in w1: capio, mitto, lego, venio. vereor placed in
 w2 with explicit venio-collision exorcism in lesson w02-4.
 Retention signals: none yet — first signals expected from w01 homework and readings.
+
+Self-added Anki words (his initiative, from readings — NEVER duplicate in future
+assigned lists): surgo, tot, nam, mox, cotidie (added 2026-07-12 from reading w01-1;
+none were on the assigned list). He said future readings need no vocab lists for words
+he's already captured this way; keep honoring the no-annotations style contract anyway.
+
+False-friend watch list (emerging error family — consider a micro-drill or lesson
+sidebar if it grows): magister→"magistrate", exspecto→"expect", consilium→"consensus"
+(lesson w01-1, since corrected). Also voco pulled toward vox/verba ("speaks") in
+reading w01-1 — voco IS in the assigned vocab.md list (w1 block), so SRS will cover it;
+just watch the next occurrence.

@@ -45,3 +45,65 @@ In the form laws are read, we see friends, we serve the republic." Thus, romans 
 vocab lists.]
 
 ## Evaluation
+
+*Evaluated 2026-07-12 by the tutor.*
+
+**Overall:** This reads like genuine in-situ comprehension, not decoding — you tracked the
+scene, handled the case functions cleanly (rei publicae, merces suas, ad praetorem), and
+correctly inferred two idioms (verba facit, ius dicit) from context. Two real misses below,
+and they cluster: the word hic, and the future tense.
+
+### Corrections
+
+**1. "Quod hic populus Romanus vitam suam agit" → "Because this gives the roman people their lives."**
+Actual meaning: "Because *here* the Roman people conducts its life." hic is the adverb
+"here" (echoing the father pointing at the forum around him), not the demonstrative "this."
+Two clues were available: nothing in the sentence can mean "gives" (agit's subject is
+populus, its object vitam), and you yourself rendered vitam agunt correctly one sentence
+later ("make daily life") — so the idiom was in your grasp; the misread adverb hijacked
+the sentence around it.
+
+**2. "Hic senator amicos salutat... Illic mercator" → "This senator greets... There a merchant."**
+Same word. You caught Illic = "there" but read Hic as "this." They're a matched adverb
+pair: "*Here* a senator greets his friends... *there* a merchant shows his wares." To be
+fair, "hic senator" = "this senator" is grammatically possible in isolation — the Illic
+parallel is what disambiguates. One lesson, two fixes: when you see Hic... Illic (or
+hic paired with a place-scene), try "here" first.
+
+**3. "Consul mox veniet et senatum in curiam vocabit" → "Soon the consul comes and speaks with the senate..."**
+Two things here. (a) veniet and vocabit are **futures**: "The consul will soon come and
+will call the senate into the senate-house." mox + future is a very common pairing —
+mox is almost a tense marker by itself. (b) vocabit is from voco, "call/summon" — the
+consul *convenes* the senate (senatum vocare is near-technical for this). "Speaks with"
+looks like a pull from vox/verba. Note: the tense system is lesson w01-3, which you
+haven't had yet this week — so I'm logging this as a watch item for that lesson, not a
+gap to drill now.
+
+**4. "pueri cum magistris" → "boys with magistrates."**
+magister = teacher, schoolmaster (also "master" generally); "magistrate" is magistratus.
+Classic false friend. The scene is schoolboys with their teachers — forum porticoes
+really were used for lessons.
+
+### Minor (no action needed)
+
+- prope curiam = "**near** the senate-house" (prope = near); your "before" kept the
+  scene intact, so comprehension stands.
+- qui consulem exspectant: exspecto = "wait for, await" — another false-friend edge
+  ("expect"), but your mental scene (men waiting for the consul to arrive) was right.
+- leges legimus = "**we read** the laws" — your "laws are read" kept the sense but
+  dropped the first person; since you kept "we see... we serve" right after, I read this
+  as English smoothing, not a morphology miss.
+
+### Your asides
+
+- **ius dicit:** your inference is exactly right, and it's better than a guess — ius
+  dicere is the *technical term* for the praetor's judicial function (his sphere was
+  literally called iurisdictio). Well spotted.
+- **curia:** close but tighten it — it's not a general word for an official building; it
+  specifically means a senate-house (and, in older usage, a division of the citizen
+  body). As for your pointed joke: it survives on a technicality. On the Ides of March
+  the senate was meeting in the **Curia of Pompey**, in Pompey's theater complex out on
+  the Campus Martius — the forum's Curia Hostilia had burned in 52 BC and its
+  replacement wasn't finished. So Caesar got the point in *a* curia, just not this one.
+- **Anki additions** (surgo, tot, nam, mox, cotidie): noted and recorded — none were on
+  the assigned list, and I'll make sure future vocab lists don't duplicate them.
