@@ -25,4 +25,23 @@ servamus." Sic Romani in foro cotidie vitam agunt.
 
 ## Translation
 
+[note: anything I put between "[" and "]" is an aside, not a part of my translation - more information for you.]
+
+At first light the city rises. Citizens from every part of the city come to the forum, because the forum
+is the heart of the republic. In the forum there are many men: senators, merchants, farmers, boys with magistrates.
+This senator greets his friends and talks about the republic. There a merchant shows his wares
+and is seeking money.
+
+Before the senate stand togaed men, who expect the Consul. Soon the consul comes and speaks with the senate in the senate
+[I'm extrapolating a bit as I think curia is a general word for an official place like a courthouse, senate house etc., but
+here it's contextually the "senate" - the same place Caesare would meet his karmic end in a very *pointed* manner - see what
+I did there :-)]. In other parts of the forum a praetor is ruling on the law [assuming "dico" can be a very abstract relation
+to "speaking" and has a flavor of ruling (judicially) in a context like this.]; citizens make their case to the praetor.
+
+A small boy asks his father: "Why are so many people in the forum?" The father responds: "Because this gives the roman people their lives.
+In the form laws are read, we see friends, we serve the republic." Thus, romans in the forum make daily life.
+
+[Worth noting I've added the following words to anki from this: `surgo`, `tot`, `nam`, `mox`, `cotidie` so no need to put future
+vocab lists.]
+
 ## Evaluation

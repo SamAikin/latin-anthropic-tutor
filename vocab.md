@@ -78,6 +78,7 @@ Dux nāvēs bellō **parat**.
 Lēgēs rem pūblicam **servant**.
 * dēfendō, dēfendere, dēfendī, dēfēnsum: (3rd conj.) - to defend, ward off.<br>
 Cīvēs urbem contrā hostēs **dēfendunt**.
+### Restart Anki Creation Here
 * regō, regere, rēxī, rēctum: (3rd conj.) - to rule, guide, direct.<br>
 Lēgēs, nōn hominēs, cīvitātem **regunt**.
 * creō, creāre, creāvī, creātum: (1st conj.) - to elect, create.<br>
