@@ -57,4 +57,10 @@ afterward, before you turn it in — mark anything you had to correct.
 
 ## Evaluation Notes
 
-(placeholder — completed by the tutor at the end of the lesson)
+Run 2026-07-11 (early — before official w01 start). ~35 min including user-requested extra vocative practice.
+
+Strong lesson. Case logic came back fast; no scaffolding needed on the hook or paradigms. Two corrections that stuck immediately: vocative -us/-ius distinction (reversed on first try, solid after), and the macron-doesn't-disambiguate-dative-from-ablative point. Ambiguity model is genuinely sophisticated — student articulated it better than most textbooks do.
+
+Watch going forward: *consilium* (high-frequency, guessed wrong), *senatus* declension class (will resolve w02), and the tendency to land on one reading of an ambiguous form rather than naming both. Not a problem yet, just a habit to watch.
+
+Historical engagement high. Catilina example was a good call — he recognized the rhetorical force of the vocative without prompting.
