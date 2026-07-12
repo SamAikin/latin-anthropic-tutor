@@ -36,7 +36,45 @@ needed):**
 
 ## Answers
 
-(your answers here)
+**A.**
+
+1.
+| sg. | pl. |
+| :---: | :---: |
+| via | viae |
+| viae | viarum |
+| viae | viis |
+| viam | vias |
+| via | viis |
+
+2.
+| sg. | pl. |
+| :---: | :---: |
+| oppidum | oppida |
+| oppidi | oppidorum |
+| oppido | oppidis |
+| oppidum | oppida |
+| oppido | oppidis |
+
+**B.**
+
+1. genitive sg. - possession of filia
+2. accusitive sg. - direct object
+3. dative sg. - indirect object
+4. vocative pl. - clarification of who is being commanded to come to the forum
+5. genitive sg. - possession of consilium
+6. ablative sg. - ablative of place
+7. nominative pl. - subject of the sentence
+8. genitive sg. - possessive of filiam OR dative sg. - indirect object. (Either the poet's son is being shown, or the son is shown to the poet. I looked up the word `monstrat` to have contextual clarity of the verb's action, but didn't known the word.)
+
+**C.**
+
+1. The farmer's son carries water from the road (I'm guessing a bit that "e" is "ex" and there is a grammatical reason for the variant.)
+2. The roman people do not love the senate's plan
+3. Lord, your servants do not work in the fields
+4. The want of grain creates war. (I had to look up Inopia and frumentum - didn't know those words)
+5. The daughters of the farmers carry gifts to the temple of the godess. (Think I got this right with the sneaky plurals, but be harsh in the grading)
+
 
 ## Evaluation
 
