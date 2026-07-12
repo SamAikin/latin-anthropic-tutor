@@ -3,7 +3,7 @@ name: evaluate-reading
 description: This skill is used when I ask you to evaluate the translation I have provided for a piece of daily reading.
 version: 1.0.0
 allowed-tools: Read, Write, Edit, Grep, Glob, LS
-disallow-model-invocation: true
+disable-model-invocation: true
 ---
 
 I will turn in a daily reading file that I have added a translation to, and ask you to evaluate it.

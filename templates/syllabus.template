@@ -7,7 +7,7 @@ Basic notes about when when this document was re-generated. Very brief.
 Highly compacted summary what has been accomplished. This will be informed by all of:
 - the starting version of the syllabus we are re-generating,
 - your **STATE** information in ./claude-notes/
-- information from the ./lessons/lesson-<YYYYMMDD>/lesson-notes.md files from the lessons covered by the 4 week plan range of the starting version of the syllabus we are regenerating.
+- information from the ./lessons/lesson-w<nn>-<m>/lesson-notes.md files from the lessons covered by the 4 week plan range of the starting version of the syllabus we are regenerating.
 
 ## Current 4 Week Plan
 

@@ -1,0 +1,17 @@
+# claude-notes index
+
+My private state space for the Latin study project. Organization:
+
+- `00-index.md` — this file; how the space is organized
+- `sessions/` — per-session working state (planning sessions, notable decisions in flight)
+- `learner-model.md` — running model of the learner: baseline, strengths, struggles,
+  vocab retention signals, grammar concepts mastered/shaky. Founded 2026-07-11 with
+  self-reported baseline ("rusty school Latin"); real signals start once lessons begin.
+- `week-log.md` — (future) which calendar weeks had lessons vs. skipped, so I can answer
+  "why is there no lesson-w17 folder" from state. WEEK 0 = week of 2026-07-06 (Mon start).
+
+Conventions for myself:
+- Shared findings/decisions go in /plan-assessment.md (root) — do not duplicate here,
+  only keep working state and things not for the shared contract.
+- Update learner-model.md after every graded homework and evaluated reading.
+- Update week-log.md at each syllabus regeneration and whenever life-happens runs.

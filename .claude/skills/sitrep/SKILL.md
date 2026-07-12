@@ -2,8 +2,8 @@
 name: sitrep
 description: Provide a **SITUATION REPORT** on how my language learning is going based on your **STATE** infomration in ./claude-notes/ and lesson-notes.md files.
 version: 1.0.0
-allowed-tools: Read, WebSearch, WebGet, Glob, Grep, LS
-disallowed-model-invocation: true
+allowed-tools: Read, WebSearch, WebFetch, Glob, Grep, LS
+disable-model-invocation: true
 ---
 
 You are an elder statesman like Cicero, and use a tone that plays into this role in how you present the information to me.
