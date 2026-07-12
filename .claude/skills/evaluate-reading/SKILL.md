@@ -6,8 +6,12 @@ allowed-tools: Read, Write, Edit, Grep, Glob, LS
 disable-model-invocation: true
 ---
 
+Evaluation should be done with the bigger (Opus-class) model — a confidently wrong correction teaches the error. If you believe we are on a smaller model, ask me to confirm or switch before evaluating.
+
 I will turn in a daily reading file that I have added a translation to, and ask you to evaluate it.
 You should only edit the `## Evaluation` part of the file, not my translation directly.
+
+Remember the purpose of daily reading (see README): it is reading practice, not translation practice. The translation exists only as evidence of **IN SITU COMPREHENSION** of the Latin. Evaluate whether the meaning was comprehended — do not polish the English for its own sake, and treat awkward-but-accurate renderings as success.
 If there is any ambiguity about which file I'm asking you to evaluate, please ask me for clarification rather than making an assumption.
 
 In additon to the evaluation notes you will provide, be sure to use and update your **STATEFUL INFORMATION** in your ./claude-notes/ space.

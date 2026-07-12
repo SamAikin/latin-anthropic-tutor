@@ -28,6 +28,14 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
   size lesson plans accordingly; don't overstuff.
 - Style contract: no macrons / no vocab handles / no annotations in readings and homework;
   macrons and reference supplements OK in vocab lists and lessons.
+- Reading purpose (user, 2026-07-11, post-assessment tweak): daily reading is READING
+  practice, not translation practice — the learner reads for in-situ comprehension in
+  Latin; the translation is only assessment evidence of that comprehension. Evaluate
+  comprehension of the Latin, not the polish of the English.
+- Model convention update (user, 2026-07-11, post-assessment tweak): grading homework and
+  evaluating reading translations use the bigger (Opus-class) model, same as planning —
+  only lesson execution stays on Sonnet. Rationale: a confidently wrong correction
+  teaches the error, and a novice can't be relied on to catch it.
 
 ## Signals (update after every graded homework and evaluated reading)
 

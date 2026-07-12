@@ -6,6 +6,8 @@ allowed-tools: Edit, Read, Write, Glob, Grep, LS
 disable-model-invocation: true
 ---
 
+Grading should be done with the bigger (Opus-class) model — a confidently wrong correction teaches the error. If you believe we are on a smaller model, ask me to confirm or switch before grading.
+
 When I ask you to grade-homework I have completed, if there is any confusion of which file I mean please ask for clarification rather than assuming.
 
 First you need to be sure to review your information in your ./claude-notes/ space as you likely have information there about why
