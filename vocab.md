@@ -59,7 +59,7 @@ Agricolae agrōs suōs **relīquērunt**.
 * accipiō, accipere, accēpī, acceptum: (3rd conj., -iō; ad + capiō) - to receive, accept.<br>
 Quaestor pecūniam pūblicam **accēpit**.
 * incipiō, incipere, incēpī, inceptum: (3rd conj., -iō) - to begin.<br>
-Bellum novum in Ītaliā **incipit**.
+Hostēs bellum novum in Ītaliā **incipiunt**.
 * cōgō, cōgere, coēgī, coāctum: (3rd conj.; cum + agō) - to gather; to force, compel.<br>
 Senātum in cūriam **coēgit**.
 * possum, posse, potuī: (irreg.) - to be able, can.<br>
@@ -67,13 +67,13 @@ Sine lēgibus cīvitās stāre nōn **potest**.
 * volō, velle, voluī: (irreg.) - to want, wish.<br>
 Populus pācem **vult**.
 * nōlō, nōlle, nōluī: (irreg.; nē + volō) - to be unwilling, not want.<br>
-Senātōrēs bellum **nōlunt**.
+Senātōrēs bellum gerere **nōlunt**.
 * mālō, mālle, māluī: (irreg.; magis + volō) - to prefer.<br>
-Lībertātem servitūtī **mālumus**.
+Lībertātem quam servitūtem **mālumus**.
 * ferō, ferre, tulī, lātum: (irreg.) - to carry, bear, endure; lēgem ferre = to propose a law.<br>
 Tribūnus lēgem novam **tulit**.
 * parō, parāre, parāvī, parātum: (1st conj.) - to prepare, get ready; to acquire.<br>
-Dux nāvēs bellō **parat**.
+Dux nāvēs ad bellum **parat**.
 * servō, servāre, servāvī, servātum: (1st conj.) - to save, preserve, guard.<br>
 Lēgēs rem pūblicam **servant**.
 * dēfendō, dēfendere, dēfendī, dēfēnsum: (3rd conj.) - to defend, ward off.<br>
@@ -139,7 +139,7 @@ Cīvis Rōmānus **iūra** sua tenet.
 * officium, officiī: (n., 2nd decl.) - duty, obligation, service.<br>
 **Officium** cōnsulis est rem pūblicam servāre.
 * ōrdō, ōrdinis: (m., 3rd decl.) - rank, order, class; ōrdō senātōrius = the senatorial order.<br>
-Equitēs **ōrdō** secundus cīvitātis sunt.
+Equester **ōrdō** secundus in cīvitāte est.
 * locus, locī: (m., 2nd decl.; pl. loca, n.) - place, position, rank.<br>
 Hic **locus** sacer est.
 * tempus, temporis: (n., 3rd decl.) - time, season; occasion.<br>
@@ -199,7 +199,7 @@ Sōl **oritur**; tumultus quoque in urbe **oritur**.
 * ingredior, ingredī, ingressus sum: (3rd conj., -iō, dep.) - to enter, step into.<br>
 Sulla urbem cum armīs **ingressus est**.
 * ēgredior, ēgredī, ēgressus sum: (3rd conj., -iō, dep.) - to go out, leave.<br>
-Nāvēs portū **ēgrediuntur**.
+Nāvēs ē portū **ēgrediuntur**.
 * polliceor, pollicērī, pollicitus sum: (2nd conj., dep.) - to promise.<br>
 Candidātus plēbī agrōs **pollicētur**.
 * queror, querī, questus sum: (3rd conj., dep.) - to complain, lament.<br>
@@ -253,7 +253,7 @@ Nōn **sōlī** sumus; sociī veniunt.
 * sīc: (adv.) - so, thus, in this manner.<br>
 **Sīc** semper tyrannīs!
 * tam: (adv., with adj./adv.) - so, to such a degree.<br>
-Numquam periculum **tam** magnum fuit.
+Numquam perīculum **tam** magnum fuit.
 * ubi: (adv./conj.) - where; when.<br>
 **Ubi** sunt lēgēs? **Ubi** mōs maiōrum?
 * unde: (adv.) - from where, whence.<br>
@@ -275,7 +275,7 @@ Post victōriam magna **caedēs** facta est.
 * arma, armōrum: (n. pl., 2nd decl.) - arms, weapons.<br>
 Cīvēs **arma** contrā cīvēs cēpērunt.
 * ferrum, ferrī: (n., 2nd decl.) - iron; sword, weapon.<br>
-**Ferrō** et īgnī urbs vastāta est.
+**Ferrō** et ignī urbs vastāta est.
 * sanguis, sanguinis: (m., 3rd decl.) - blood; bloodshed.<br>
 **Sanguis** cīvium viās implēvit.
 * mors, mortis: (f., 3rd decl., i-stem) - death.<br>
@@ -315,7 +315,7 @@ Rōmānī **rēgnum** semper timuērunt.
 * occīdō, occīdere, occīdī, occīsum: (3rd conj.; ob + caedō) - to kill, cut down.<br>
 Tribūnus in Capitōliō **occīsus est**.
 * interficiō, interficere, interfēcī, interfectum: (3rd conj., -iō) - to kill, destroy.<br>
-P. Sulpicius, quī tribūnus plēbī **interfectus est**. (Nepōs, Atticus 2)
+P. Sulpicius, tribūnus plēbis, iussū Sullae **interfectus est**.
 
 ## Week 3
 
@@ -324,7 +324,7 @@ Crassus Spartacum in Āpūliā **vīcit**.
 * pellō, pellere, pepulī, pulsum: (3rd conj.) - to drive, push, rout.<br>
 Hostēs ex Ītaliā **pulsī sunt**.
 * premō, premere, pressī, pressum: (3rd conj.) - to press, pursue, oppress.<br>
-Piratae nāvēs mercātōrum **premēbant**.
+Pīrātae nāvēs mercātōrum **premēbant**.
 * trahō, trahere, trāxī, tractum: (3rd conj.) - to drag, draw, derive.<br>
 Captīvī per viās urbis **tractī sunt**.
 * iaciō, iacere, iēcī, iactum: (3rd conj., -iō) - to throw, hurl; to lay (foundations).<br>
@@ -356,13 +356,13 @@ Cōnsul hostēs ad flūmen **cecīdit**.
 * claudō, claudere, clausī, clausum: (3rd conj.) - to close, shut, blockade.<br>
 Portae urbis nocte **clauduntur**.
 * solvō, solvere, solvī, solūtum: (3rd conj.) - to loosen, release; to pay; nāvem solvere = to set sail.<br>
-Classis ab Ītaliā nāvēs **solvit**.
+Pompēius ab Ītaliā nāvēs **solvit**.
 * vertō, vertere, vertī, versum: (3rd conj.) - to turn, change; sē vertere = to turn oneself.<br>
 Fortūna bellī subitō **vertit**.
 * dīvidō, dīvidere, dīvīsī, dīvīsum: (3rd conj.) - to divide, separate, distribute.<br>
 Gallia est omnis **dīvīsa** in partēs trēs. (Caesar, Dē Bellō Gallicō 1.1)
 * mūniō, mūnīre, mūnīvī, mūnītum: (4th conj.) - to fortify, build, protect.<br>
-Castra fossā et mūrō **mūnīta sunt**.
+Castra vallō et fossā **mūnīta sunt**.
 * oppugnō, oppugnāre, oppugnāvī, oppugnātum: (1st conj.) - to attack, assault, besiege.<br>
 Hostēs castellum nostrum **oppugnant**.
 * expugnō, expugnāre, expugnāvī, expugnātum: (1st conj.) - to take by storm, capture.<br>
@@ -370,7 +370,7 @@ Urbs post longam obsidiōnem **expugnāta est**.
 * obsideō, obsidēre, obsēdī, obsessum: (2nd conj.) - to besiege, blockade, occupy.<br>
 Exercitus noster urbem hostium **obsidet**.
 * incendō, incendere, incendī, incēnsum: (3rd conj.) - to set on fire, burn; to inflame.<br>
-Piratae vīllās maritimās **incendērunt**.
+Pīrātae vīllās maritimās **incendērunt**.
 * vastō, vastāre, vastāvī, vastātum: (1st conj.) - to lay waste, devastate.<br>
 Agrī Ītaliae bellō **vastātī sunt**.
 * occupō, occupāre, occupāvī, occupātum: (1st conj.) - to seize, occupy, take possession of.<br>
@@ -398,7 +398,7 @@ Longum **agmen** per montēs prōcēdit.
 * impetus, impetūs: (m., 4th decl.) - attack, charge, impulse.<br>
 **Impetus** equitum aciem hostium frēgit.
 * proelium, proeliī: (n., 2nd decl.) - battle, combat.<br>
-**Proelium** ā prīmā lūce ad noctem gestum est.
+**Proelium** ā prīmā lūce ad noctem commissum est.
 * pugna, pugnae: (f., 1st decl.) - fight, battle.<br>
 **Pugna** ācris prō castrīs fuit.
 * legiō, legiōnis: (f., 3rd decl.) - legion.<br>
@@ -454,9 +454,9 @@ Castra trāns **flūmen** posita sunt.
 * orbis, orbis: (m., 3rd decl., i-stem) - circle, disk; orbis terrārum = the world.<br>
 Rōmānī tōtō **orbe** victōrēs erant.
 * fortis, forte: (adj., 3rd decl.) - brave, strong.<br>
-**Fortēs** fortūna iuvat.
+**Fortēs** fortūna adiuvat.
 * ācer, ācris, ācre: (adj., 3rd decl.) - sharp, fierce, keen.<br>
-**Ācre** proelium ad flūmen gestum est.
+**Ācre** proelium ad flūmen commissum est.
 * celer, celeris, celere: (adj., 3rd decl.) - swift, quick.<br>
 **Celerēs** nāvēs pīrātārum fugiēbant.
 * gravis, grave: (adj., 3rd decl.) - heavy, serious, grave; important.<br>
@@ -505,11 +505,11 @@ Patēre tua cōnsilia nōn **sentīs**? (Cicerō, In Catilīnam 1.1)
 * cognōscō, cognōscere, cognōvī, cognitum: (3rd conj.) - to learn, recognize; (perf.) to know.<br>
 Cōnsul cōnsilia coniūrātōrum **cognōvit**.
 * appellō, appellāre, appellāvī, appellātum: (1st conj.) - to call, name, address.<br>
-Quī ipsōrum linguā Celtae, nostrā Gallī **appellantur**. (Caesar, Dē Bellō Gallicō 1.1)
+Hī ipsōrum linguā Celtae, nostrā Gallī **appellantur**. (ex Caesare, Dē Bellō Gallicō 1.1)
 * nōminō, nōmināre, nōmināvī, nōminātum: (1st conj.) - to name, nominate, mention.<br>
 Testis coniūrātōs palam **nōmināvit**.
 * clāmō, clāmāre, clāmāvī, clāmātum: (1st conj.) - to shout, cry out, proclaim.<br>
-Populus in forō "lībertās!" **clāmābat**.
+Populus in forō lībertātem **clāmābat**.
 * taceō, tacēre, tacuī, tacitum: (2nd conj.) - to be silent, say nothing.<br>
 Dē hīs rēbus melius est **tacēre**.
 * dubitō, dubitāre, dubitāvī, dubitātum: (1st conj.) - to doubt, hesitate.<br>
@@ -519,7 +519,7 @@ Senātus diem comitiīs **cōnstituit**.
 * dēcernō, dēcernere, dēcrēvī, dēcrētum: (3rd conj.) - to decree, decide, vote.<br>
 Id bellum Cn. Pompēiō **dēcrētum est**. (Eutropius 6.12)
 * cēnseō, cēnsēre, cēnsuī, cēnsum: (2nd conj.) - to propose, vote, judge; to assess.<br>
-Cato Carthāginem dēlendam esse **cēnsēbat**.
+Catō Carthāginem dēlendam esse **cēnsēbat**.
 * persuādeō, persuādēre, persuāsī, persuāsum: (2nd conj., + dat.) - to persuade, convince.<br>
 Ōrātor populō facile **persuādet**.
 * ōrō, ōrāre, ōrāvī, ōrātum: (1st conj.) - to plead, beg, pray; to deliver a speech.<br>
@@ -533,13 +533,13 @@ Iūdicēs virum innocentem **absolvērunt**.
 * iūdicō, iūdicāre, iūdicāvī, iūdicātum: (1st conj.) - to judge, decide, declare.<br>
 Marius hostis ā senātū **iūdicātus est**.
 * vītō, vītāre, vītāvī, vītātum: (1st conj.) - to avoid, evade, shun.<br>
-Sapiēns perīcula vāna **vītat**.
+Sapiēns cīvis perīcula **vītat**.
 * māchinor, māchinārī, māchinātus sum: (1st conj., dep.) - to plot, contrive, devise.<br>
 Pestem in nōs omnēs iam diū **māchināris**. (ex Cicerōne, In Catilīnam 1.2)
 * ōrātiō, ōrātiōnis: (f., 3rd decl.) - speech, oration; eloquence.<br>
 **Ōrātiō** Cicerōnis Catilīnam ex urbe pepulit.
 * ōrātor, ōrātōris: (m., 3rd decl.) - orator, speaker; spokesman.<br>
-**Ōrātor** bonus vir bonus dīcendī perītus est.
+**Ōrātor** est vir bonus dīcendī perītus.
 * ēloquentia, ēloquentiae: (f., 1st decl.) - eloquence.<br>
 **Ēloquentiā** Cicerō omnēs superābat.
 * verbum, verbī: (n., 2nd decl.) - word; pl. talk, language.<br>
@@ -563,7 +563,7 @@ Senātōrēs **sententiās** suās dīxērunt.
 * crīmen, crīminis: (n., 3rd decl.) - charge, accusation; crime.<br>
 **Crīmen** maiestātis gravissimum erat.
 * scelus, sceleris: (n., 3rd decl.) - crime, wicked deed, wickedness.<br>
-**Scelera** Sullae memoriā tenentur.
+**Scelera** Sullae omnēs memoriā tenent.
 * fraus, fraudis: (f., 3rd decl.) - deceit, fraud, wrongdoing.<br>
 **Fraude**, nōn virtūte, vīcit.
 * īnsidiae, īnsidiārum: (f. pl., 1st decl.) - ambush, plot, treachery.<br>
@@ -591,7 +591,7 @@ Magna glōria magnam **invidiam** parit.
 * spēs, speī: (f., 5th decl.) - hope, expectation.<br>
 **Spēs** pācis omnēs tenet.
 * vēritās, vēritātis: (f., 3rd decl.) - truth.<br>
-**Vēritās** tandem in iūdiciō pateat.
+**Vēritās** tandem in iūdiciō patet.
 * mēns, mentis: (f., 3rd decl., i-stem) - mind, intellect, intention.<br>
 **Mēns** sāna in corpore sānō.
 * animus, animī: (m., 2nd decl.) - mind, spirit, soul; courage; pl. pride.<br>
