@@ -46,6 +46,154 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-14 w01-2 EXTRA PRACTICE (agreement drills — HE requested them; graded Opus)
+
+Self-requested remediation after the weak homework Section B. **Good instinct on his part —
+he asked for production practice, which is exactly the mode that was failing.** Scores:
+A 9/11, B(Q12) 1/1 perfect, C(Q13) 3/4, D pairings 2/2 with a number error in each.
+
+**THE I-STEM BUG IS FIXED WHERE IT COUNTS.** Both hard discrimination items correct:
+`tempore gravī` (noun -e + adj -ī in the SAME phrase — the exact `urbi` trap) and
+`consulum fortium` (noun -um + adj -ium — the exact `militium` trap). All THREE
+genitive-stem traps clean: `itinere`, `homine`, `operis`. The `homoni` bug is dead.
+Q12 perfect — `fortī` matched to rēgī/rēge/corporī/corpore. He has genuinely abandoned
+ending-matching. Yesterday 2/6 → today 9/11 on harder items.
+
+**⚠ MY REMEDIATION CAUSED AN OVER-CORRECTION — IMPORTANT SELF-LESSON.** My "neuter i-stem
+markers are a PACKAGE" framing landed as **"never use -ī/-ia."** He swung from
+over-applying the -i- to over-STRIPPING it: condemned `marī` as impossible Latin (it's the
+canonical neuter i-stem abl. sg.) and wrote `mares magnae` for `maria magna`. **He had
+`marī` RIGHT in the homework the day before.** I un-taught a correct form with an
+over-tidy rule. **LESSON: when giving a corrective rule, state the POSITIVE cases as
+loudly as the negative ones, and check I'm not nuking a form he already had.**
+
+**He challenged Q13 in chat ("I think 3 of the 4 are incorrect") — he was wrong, and the
+challenge was the most valuable thing he submitted.** Handled by confirming the question
+stands, owning my framing error, and re-drawing the box as a 3-row gender-conditional
+table. **Encourage this: he pushes back on the tutor, with reasoning. That's exactly the
+behavior I want and it surfaced a real bug in my teaching.**
+
+**★ THE REFRAME — THE REAL BUG IS GENDER, NOT I-STEMS. ★**
+- `mare` is NEUTER → he declined it feminine (`mares magnae`) and called it "f." in Q13
+- `civitas` is FEMININE → he gave it a NEUTER adjective (`civitates omnia`)
+- He simultaneously STRIPPED -ia where required and ADDED it where forbidden
+
+The -ī/-ia rule **cannot be applied without knowing gender**, which is why he can't hold
+it in either direction. **The i-stem confusion was gender wearing an i-stem costume.**
+Gender is the third leg of case-number-gender and it's the one he drops. Decl-3 gender is
+not derivable from the ending — it must be learned WITH the word. **ACTION: reinforce
+gender as a three-part dictionary fact (mare, maris, n.). Consider a gender-tagging habit
+in vocab work. This is a live target for w02 planning.**
+
+**★ SECOND TARGET (new, and it's now 3 instances): NEUTER PLURALS IN -a READ AS SINGULARS.★**
+D14 `magnas urbes` → "the great city" (and he MISLABELED the case as "sg."). D15 `bella`
+→ "a serious war." And w01-1 homework C4: `bella` → "war" — **same word, same error, two
+weeks running.** He labeled D15 "n. acc pl" and then translated it singular. **This is not
+English smoothing — the number is being lost in the parse.** Standing watch item.
+
+**Minor:** dropped the case labels I asked for, and consequently four genitive glosses came
+out with no "of" ("all enemies," "strong consuls," "great parts," "great work"). The label
+is the safety net — reinstated the convention. Also `bellum gerere cum` = "against" (taught
+2026-07-13) did NOT fire in D15; he read it as accompaniment. First test of that idiom,
+first miss — watch, don't re-teach yet.
+
+### 2026-07-13 Lesson w01-2 HOMEWORK (graded same day, Opus-class)
+
+A: 11/12. B: **2/6**. C: 4.5/5. Pass, but B is the lowest production score on record and
+it is informative rather than alarming — see the through-line below.
+
+**CLOSED: the instruction-following/completeness theme.** Six labeled rows, both numbers,
+both nouns, as asked. This was the ONLY recurring theme across w01-1 lesson + homework
+and w01-2 lesson. It did not recur. **Remove from watch list.**
+
+**NEW HEADLINE — one bug, five symptoms: i-stem `-i-` over-applied in PRODUCTION.**
+`militium` (→militum), `urbi` (→urbe), `corporī` (→corpore). He is NOT missing the
+knowledge: got `cive` right (the form most learners blow), got `marī` right for the right
+reason, and *in the lesson itself* contrasted hostium vs. militum correctly and unprompted.
+It regresses under output load. Fix taught as two rules: (1) neuter i-stem markers are a
+**package** — abl. sg. -ī and nom./acc. pl. -ia travel together (he rejected `corporia` in
+his own note, then wrote `corporī` — didn't cash his own inference); (2) masc./fem.
+i-stems show it in **exactly one slot**, gen. pl. -ium.
+
+**ROOT CAUSE IS PARTLY MINE — a repeat of a known design error.** I taught i-stems
+recognition-only (right for reading; his reading IS clean), then tested **production**.
+Same class of mistake as putting futures in reading w01-1 before the tense lesson.
+**RULE FOR FUTURE PLANNING: do not assess in a mode the lesson deliberately declined to
+train.** Either train production or don't test it.
+
+**Separate real bug, do not let it hide behind the i-stem story:** `homoni` (B5) — built
+the dative off the NOMINATIVE `homo`, not the genitive stem `homin-`. That is rule #1 of
+declension 3 and it collapses on corpus/tempus/iter/homo. Re-drilled: build from the
+genitive. Watch for recurrence.
+
+**Also:** `nostri` for `nostrō` — agreement break on a neuter ablative immediately after
+getting `marī` right. Adjective glosses scrambled: `magnus`→"strong", `ingens`→"brave"
+(C4 proves he knows magnus → slips, not gaps; but `fortis` seems to be bleeding into
+`ingens`).
+
+**Retention win, same-day AGAIN:** `hostium` → "of the enemies" in B2 and C2, hours after
+glossing it "host" in the lesson. **Same-day lesson→homework retention is now a confirmed
+pattern (3rd instance: consilium, vocative -e, hostis). Corrections stick. Trust them and
+don't re-teach.**
+
+**THE THROUGH-LINE — now visible across three assessments and the most important thing in
+this file: COMPREHENSION RUNS WELL AHEAD OF PRODUCTION.** He *read* `urbium magnarum`
+correctly in C1 while mis-*building* `militium` in B2. Section C 4.5/5 vs. Section B 2/6.
+**For a reading-fluency North Star this is arguably the CORRECT imbalance. Do NOT respond
+by drilling paradigms.** Treat production failures as stability-under-load, not knowledge
+gaps. Say so to him explicitly when it happens — he may otherwise misread a bad B section
+as "I don't know declension 3," which is false.
+
+**Convention established** (he asked — good question): bare cased phrase with no sentence
+→ gloss **lexical meaning + case label only**, no speculation about syntactic function.
+Function requires a sentence.
+
+**TENSE SLIP #3:** `relinquunt` → "left" (present read as past). Cf. reading w01-1
+(futures → present) and the diagnostic (tense degrades under load). **w01-3 is the tense
+system — this is the venue. Watch tense discipline there specifically.** If it survives
+w01-3, it stops being "under load" and becomes a real target.
+
+### 2026-07-13 Lesson w01-2 (decl 3 + agreement) — TAUGHT, on schedule, ~30 min
+
+**Overall: fast, clean, no scaffolding.** Reads by FUNCTION, not by ending-matching —
+which was the whole point of the lesson. Agreement across declensions landed first pass.
+
+**Strengths (some now confirmed, promote out of "watch"):**
+- **Distance agreement prepaid.** `Longum Romani cum hostibus bellum gesserunt` → found
+  longum+bellum AND justified from constraints ("only two that can be acc/nom; longum
+  wouldn't agree in number with Romani"). This is the week-3 participle skill working a
+  block early. He reasons from constraints, not adjacency.
+- Ambiguity-naming habit: 3rd consecutive session. `corpora` → nom/acc/voc pl. unprompted.
+  Permanently a strength; stop tracking.
+- i-stems accepted as recognition-only with zero friction. Speed-run calibration is right.
+
+**THE recurring theme, now confirmed twice — instruction-following, not Latin:**
+Asked for genitive plural "of all the senators," produced `omnes senatores` — both words
+correctly inflected and agreeing perfectly, but the WRONG CASE. Cf. w01-1 homework: five
+declension rows when six were asked. **The Latin engine is not the failure point; the
+spec-reading is.** ACTION: state case/number specs explicitly and separately in homework;
+tell him to re-read the spec before answering. Do NOT re-teach the grammar.
+
+**False-friend family GROWING — now 4 members, promote to a real intervention:**
+`hostis`→"host" (this lesson). Joins magister→"magistrate", exspecto→"expect",
+consilium→"consensus", voco→"speaks". The English cognate arrives before the Latin
+meaning does. **Recommend a false-friend micro-drill or lesson sidebar in w02 planning.**
+Taught in-lesson: hostis (public/legal enemy) vs. inimicus (personal) — the Catiline
+*hostis* declaration as constitutional act. Landed well; ties forward to reading w04-4.
+
+**Metalanguage slip:** called `ex` an **adverb**, not a preposition. Corrected on the spot.
+Watch specifically because **w02-2 turns on exactly this axis** — demonstrative `hic` vs.
+adverbial `hic`, which he missed TWICE in reading w01-1. The preposition/adverb boundary
+is soft for him. Make the part-of-speech distinction explicit in w02-2, not assumed.
+
+**Also banked:** `bellum gerere cum + abl.` = wage war AGAINST (he read it as "with").
+
+**PLANNING BUG FOUND:** lesson-w01-2's own Reference section (`lex nova` ladder,
+`magnam milites urbem ceperunt`, parse set tempora nostra / mari nostro / hominem fortem)
+duplicated homework items B1–B6 almost exactly — teaching the plan as written would have
+spoiled the homework. I substituted fresh examples live. **Check lesson-example vs.
+homework overlap at plan time from now on.**
+
 ### 2026-07-12 Reading w01-1 forum-romanum EVALUATED (Fable 5; done ahead of w01 start Jul 13)
 
 **Overall:** Genuine in-situ comprehension — scene tracked, case functions clean
@@ -178,13 +326,24 @@ Diagnostic-slipped words assigned in w1: capio, mitto, lego, venio. vereor place
 w2 with explicit venio-collision exorcism in lesson w02-4.
 Retention signals: none yet — first signals expected from w01 homework and readings.
 
-Self-added Anki words (his initiative, from readings — NEVER duplicate in future
-assigned lists): surgo, tot, nam, mox, cotidie (added 2026-07-12 from reading w01-1;
-none were on the assigned list). He said future readings need no vocab lists for words
-he's already captured this way; keep honoring the no-annotations style contract anyway.
+Self-added Anki words (his initiative, from readings/homework — NEVER duplicate in future
+assigned lists): surgo, tot, nam, mox, cotidie (2026-07-12, reading w01-1); spes/spem
+(2026-07-13, homework w01-2). None were on the assigned list. He said future readings need
+no vocab lists for words he's already captured this way; keep honoring the no-annotations
+style contract anyway.
 
-False-friend watch list (emerging error family — consider a micro-drill or lesson
-sidebar if it grows): magister→"magistrate", exspecto→"expect", consilium→"consensus"
-(lesson w01-1, since corrected). Also voco pulled toward vox/verba ("speaks") in
-reading w01-1 — voco IS in the assigned vocab.md list (w1 block), so SRS will cover it;
-just watch the next occurrence.
+Adjective glosses to watch (w01-2 homework): magnus→"strong", ingens→"brave" — fortis
+appears to be bleeding into ingens. C4 proves he knows magnus, so these are load slips,
+not gaps. If it recurs, a 3-way discrimination drill (magnus / ingens / fortis).
+
+False-friend list — established error family (5 members): magister→"magistrate",
+exspecto→"expect", consilium→"consensus" (w01-1, corrected), voco→"speaks" (reading
+w01-1; voco IS in the w1 SRS block), hostis→"host" (lesson w01-2, corrected).
+Mechanism: **the English cognate arrives before the Latin meaning does.** He needs the
+reflex "if it looks too helpful, be suspicious."
+
+**Intervention sizing (updated 2026-07-13 post-homework):** each correction has STUCK on
+first telling — consilium and hostis both came back correct within hours. So this family
+needs **exposure and a named reflex, not a remedial unit.** Keep a running list, name the
+pattern when it fires, seed the words into readings — but do NOT spend a lesson slot on
+it. Revisit only if a corrected word fails twice.
