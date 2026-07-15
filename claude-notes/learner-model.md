@@ -46,6 +46,64 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-15 Reading w01-4 comitia EVALUATED (Fable 5)
+
+**Overall: comprehended. Hardest tense environment so far — three layers (perfect
+narrative spine / imperfect background / gnomic-present asides) — and he tracked every
+switch without flattening.** This reading was done BEFORE lessons w01-3 (tenses) and
+w01-4 (preps/case idioms); several wins below are ahead-of-instruction.
+
+**★ PLUPERFECT RECOGNIZED PRE-LESSON:** `creaverat` → "had elected," self-spotted and
+self-flagged ("which isn't nothing" — his words). Combined with the w01-3 future pass,
+the RECOGNITION layer of all six active-indicative tenses is now evidenced. Teaching
+note for lesson w01-3 stands: spend the time on PRODUCTION (synopses) and on aspect —
+his blanket "used to X" for narrative imperfects (habitual reading inside a `Heri`
+frame) is the one refinement flagged; he used "were rejoicing" correctly in the last
+paragraph, so the descriptive reading is available, just not systematic.
+
+**★ NEUTER-PL-AS-SG WATCH: FIRST CLEAN PASS.** `nomina nova` → "the new names,"
+`suffragia` → "votes" — every neuter plural rendered plural. Watch stays open (3 prior
+instances) but the trend just turned. One more clean reading and it can close.
+
+**Main miss: `nuntii` → "the news"** (messengers — ierunt + clamaverunt force persons).
+His own English produced a dangling "they" and the w01-2 polysemy meta-skill ("odd
+English output → suspect a polysemous word") did NOT fire. Second polysemy miss
+(consilium was #1). The alarm exists; the STOP reflex doesn't yet. Named it explicitly
+in the evaluation. Watch for whether the reflex fires next time.
+
+**Smaller:** `togas candidas` → "the candidate toga" (etymology reversed — candidus =
+gleaming white; also number dropped); `ita enim` read as purpose ("so that") instead of
+explanation ("for in this way") — enim not yet a reliable signpost; `inter homines` →
+"between men" (second "between/among" note — first was inter cives in w01-3);
+`magnam` → "greatest" (degree inflation, likely history-sense-driven); `salutabat` →
+"saluted" (cognate lean, mild — salutare = greet).
+
+**Wins:** `suffragium ferre` → "cast votes" — idiom comprehended in situ, unprompted
+(idiom-inference strength, instance #5). `verba pro amicis faciebant` → "debate for
+their friends" — verba facere callback from w01-1 partially landed ("spoke on behalf
+of" is the sense; close enough for comprehension). `manus tenebat` → guessed "shake
+hands" and flagged it — exactly right (rewarded with prensare/prensat unus P. Galba,
+Att. 1.1, and the Commentariolum Petitionis). `magistratus suos` → "their magistrates" —
+4th-decl acc. pl. read correctly, forced by suos (third clean instance of the exercitus
+form family). `vesperi` handled fine (time expression; locative-adjacent — good sign for
+the w01-4 Romae/domi action item). `domibus` (decl 4, pre-lesson) no friction.
+
+**Ablative of means self-taught:** flagged that he needed the grammar reference for
+`non ferro, sed suffragiis`. That is lesson w01-4's exact topic — he's now primed for
+it, same pattern as the locative priming from w01-3. Teaching note for lesson w01-4:
+means/manner can start from HIS example (ferro/suffragiis + ferrum metonymy); still
+give Romae/domi the explicit treatment (prior action item).
+
+**Historical engagement continues at scholarship level:** asked WHY comitia meet outside
+the walls, analogized to the Rubicon rule. Answer connected it to HIS OWN prior
+imperium/pomerium thread (domi/militiae, centuriata = the army voting), refined the
+Rubicon analogy (same principle, provincial boundary vs. pomerium), and fed forward to
+week 4 (Metellus Celer + the Janiculum flag, 63 BC). His theory-building was RIGHT this
+time (contrast the lectio-senatus overgeneralization in w01-3) — the analogy needed
+sharpening, not correction.
+
+**No new Anki self-adds noted in this reading.**
+
 ### 2026-07-15 Reading w01-3 cursus-honorum EVALUATED (Fable 5)
 
 **★ TENSE WATCH: CLOSED — PASSED, AND BEFORE THE LESSON. ★** Five futures (erit ×3,
