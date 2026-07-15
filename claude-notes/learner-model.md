@@ -46,6 +46,56 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-15 Reading w01-3 cursus-honorum EVALUATED (Fable 5)
+
+**★ TENSE WATCH: CLOSED — PASSED, AND BEFORE THE LESSON. ★** Five futures (erit ×3,
+amabit, si-clause erit) all rendered future, presents kept present — and lesson w01-3
+(tense system) had NOT yet been taught (git log: last lesson commit is "completed
+lesson 2"). The w01-1 future-flattening error is gone without instruction. Bonus
+evidence: he translated the si-clause literally ("if the people WILL love him") —
+stiff English that PROVES the future was seen. Tense discipline is no longer a watch
+item; the diagnostic's "degrades under load" caveat can stay as background only.
+Teaching note for lesson w01-3 when it runs: the present/future/imperfect recognition
+layer is already solid — spend the time on plupf/futpf and PRODUCTION (synopses), per
+the comprehension-ahead-of-production pattern.
+
+**exercitus callback landed (unprompted):** `Consul exercitus ducit` → "armies" —
+the exact form he flagged as ambiguous in w01-2, now the syntax-forced acc. pl. read.
+
+**One wrong pattern caught before it set:** he asked to "internalize" `Romae nemo` as
+partitive genitive (analogy to nemo Gallorum). It's the LOCATIVE; he'd dropped "at
+Rome" from the translation. Corrected with the positive case stated loudly (nemo
+Gallorum IS real — per the marī over-correction lesson). **ACTION: locative is w01-4
+(preps + case idioms) — make sure Romae/domi get explicit treatment there; he's primed.**
+
+**Vocab slips, both in the capio/peto families:** `accipiunt` → "seize" (accipio =
+receive; possible capio-bleed — capio is on w1 SRS, watch the family: capio/accipio/
+incipio); `petere` → "achieve" ×2 (peto = seek/run for; taught honores petere =
+candidacy idiom, petitio, candidatus). Neither broke comprehension. Not false friends —
+these are near-miss sense selections within the right semantic zone.
+
+**Minor misparse:** "Marcus the Young" for `Marcus iuvenis Romanus est` (predicate read
+as epithet). Also his fortuna note: parsed `fortuna bona erit` as "he will be luck"
+(embodiment) — fortuna is just the subject. Cultural instinct fine, grammar corrected.
+
+**Idiom/institution instinct — instance #4, with a new wrinkle:** `nomina senatorum
+legit` → note said "he appoints the senators" — CORRECT (lectio senatus) but routed
+through the wrong mechanism (he generalized ius-dicere performative speech; the real
+mechanism is lego = "choose" as root sense). He's now building a THEORY of Roman
+idioms, not just catching them — the theory overgeneralized here. Evaluation praised
+the conclusion, corrected the tunnel. Watch: when his historical theory is driving,
+verify the linguistics underneath.
+
+**Historical engagement is deepening into scholarship-level questions:** asked whether
+regere was taboo for consuls (answered: stigma is on rex/regnum/regnare, not the verb;
+Cicero's rector rei publicae), and requested a web check on imperium-as-indwelling-
+power with challenges. Delivered the Drogula (legalist) vs. sacral-tradition split;
+challenged the Holy-Ghost analogy with the pomerium-lapse and imperium-deponere
+behavior (using his OWN w01-2 translation as evidence). He explicitly wants pushback
+on his historical models — keep giving real challenges, not validation.
+
+**No new Anki self-adds noted in this reading.**
+
 ### 2026-07-14 Reading w01-2 senatus-et-consules EVALUATED (Fable 5)
 
 **Overall: strongest reading yet — real in-situ comprehension, and TENSE DISCIPLINE
