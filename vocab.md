@@ -546,7 +546,7 @@ Pestem in nōs omnēs iam diū **māchināris**. (ex Cicerōne, In Catilīnam 1.
 **Verba** movent, exempla trahunt.
 * vōx, vōcis: (f., 3rd decl.) - voice, utterance, word.<br>
 **Vōx** ōrātōris tōtum forum implēvit.
-* sententia, sententiae: (f., 1st decl.) - opinion, judgment; vote (in the senate); sentence.<br>
+* (added) sententia, sententiae: (f., 1st decl.) - opinion, judgment; vote (in the senate); sentence.<br>
 Senātōrēs **sententiās** suās dīxērunt.
 * cōnsilium, cōnsiliī: (n., 2nd decl.) - plan, advice, judgment; council.<br>
 **Cōnsilia** Catilīnae patent.
@@ -582,7 +582,7 @@ Magna glōria magnam **invidiam** parit.
 **Glōriam** vērī virī factīs petunt.
 * dignitās, dignitātis: (f., 3rd decl.) - dignity, worthiness, rank, prestige.<br>
 **Dignitās** sine officiō vāna est.
-* auctōritās, auctōritātis: (f., 3rd decl.) - authority, influence, prestige.<br>
+* (added) auctōritās, auctōritātis: (f., 3rd decl.) - authority, influence, prestige.<br>
 **Auctōritās** senātūs magna erat.
 * lībertās, lībertātis: (f., 3rd decl.) - liberty, freedom.<br>
 **Lībertās** rēs pretiōsissima est.

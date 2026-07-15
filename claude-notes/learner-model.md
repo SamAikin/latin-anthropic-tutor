@@ -46,6 +46,43 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-14 Reading w01-2 senatus-et-consules EVALUATED (Fable 5)
+
+**Overall: strongest reading yet — real in-situ comprehension, and TENSE DISCIPLINE
+PASSED.** All time layers correct: imperfect `regebant` vs. perfects `expulerunt`/
+`fecerunt` correctly distinguished, presents kept present, and — the headline —
+**`relinquunt` rendered correctly PRESENT, one day after the same verb was read as past
+in the w01-2 homework (tense slip #3).** That's a same-word fix within 24h, consistent
+with the corrections-stick pattern. Tense watch continues at w01-3 (the tense lesson)
+but the trend is right.
+
+**Ahead-of-schedule wins:** `eorum`/`eum`/`alter` all correct BEFORE the pronoun lesson
+(w02-2). `regnum` → "royal power" (institution, not territory) — sharp sense selection.
+`odio habent` → "hate": another idiom comprehended in situ (joins verba facit, ius dicit
+from reading w01-1 — **idiom-inference-from-context is now a confirmed strength, 3rd
+instance**).
+
+**The one real miss — and it's a lesson about MY corrections:** `consilium publicum` →
+"the public plan" (should be "public COUNCIL"). The w01-1 correction consilium→"plan"
+stuck — but it stuck as the ONLY sense. **Same failure shape as the marī over-correction:
+a corrective gloss becomes a single-sense lock.** Fix given in the evaluation: consilium
+has a range (plan/advice/judgment/council); taught the meta-skill "if your English output
+is semantically odd, suspect a polysemous word." Also: `consilium senatus relinquunt` →
+"plans" where "advice" fits better — same lock, milder. **Watch whether the COUNCIL sense
+surfaces next time consilium appears in an institutional context.**
+
+**Bracketed-aside convention still excellent:** flagged `exercitus` sg./pl. ambiguity
+honestly — and the ambiguity is REAL (4th-decl acc. pl. = nom. sg. without macrons; decl
+4 is w02-1). Rewarded with the morphology answer. He argued semantics, not morphology —
+after w02-1, this exact form would make a good callback.
+
+**No opportunities this reading for:** hic-as-adverb (w02-2 watch), neuter-pl-as-sg
+(standing watch — no neuter plural traps present; still open, 3 instances).
+
+**Anki note:** he added `comitium` (sg.) — flagged in evaluation that the assembly word
+is plural-only comitia AND that comitia is already on his assigned Week 1 list
+(possible duplicate card).
+
 ### 2026-07-14 w01-2 EXTRA PRACTICE (agreement drills — HE requested them; graded Opus)
 
 Self-requested remediation after the weak homework Section B. **Good instinct on his part —
@@ -330,7 +367,10 @@ Self-added Anki words (his initiative, from readings/homework — NEVER duplicat
 assigned lists): surgo, tot, nam, mox, cotidie (2026-07-12, reading w01-1); spes/spem
 (2026-07-13, homework w01-2). None were on the assigned list. He said future readings need
 no vocab lists for words he's already captured this way; keep honoring the no-annotations
-style contract anyway.
+style contract anyway. Reading w01-2 (2026-07-14) added: sententia, comitium, auctoritas.
+NOTE: sententia was on the assigned w4 list (now marked "(added)" in vocab.md — do not
+re-assign); comitia was ALREADY on assigned w1 (he added sg. comitium — flagged possible
+duplicate in the evaluation); auctoritas was never assigned, genuinely new.
 
 Adjective glosses to watch (w01-2 homework): magnus→"strong", ingens→"brave" — fortis
 appears to be bleeding into ingens. C4 proves he knows magnus, so these are load slips,
