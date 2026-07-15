@@ -46,6 +46,97 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-15 Lesson w01-3 HOMEWORK (graded same day, Fable 5)
+
+**Strong pass. BOTH designed retests PASSED — close the watches:**
+- **★ -et/-it PRESENT-VS-FUTURE TRAP: CLOSED.** `petent` and `creabit` both read as
+  futures, correctly. The "slippery -et/-it → check the conjugation" reflex taught
+  <24h earlier FIRED. Corrections-stick pattern instance #4+.
+- **★ fu-/potu- hidden perfect stem: HELD.** `potuerat` parsed clean (3rd sg plupf
+  of possum). The `fuit`-as-future error family looks fixed.
+- **★ NEUTER-PL-AS-SG WATCH: CLOSED.** `multa bella` → "many wars" — the exact word
+  (`bella`) that failed twice, now clean two assignments running (after w01-4
+  reading's clean pass). Reopen only if it recurs.
+- hostis→"host" false friend confirmed dead (`hostes` → "enemies" unprompted).
+
+Scores: A 10/12 (mitto 3rd pl 6/6; teneo 1st sg 4/6). B tense/person/number 8/8 —
+perfect on the layer that was asked. C 4/5, tense discipline near-perfect on the
+tense-designed set.
+
+**NEW FINDINGS — every one is production-side (through-line intact, do not read as
+knowledge gaps):**
+1. **PRINCIPAL PARTS UNDER PRODUCTION — the pre-w03 target.** 5/8 parse items had
+   dictionary-form errors, all one mechanism: he DERIVES unknown parts by analogy
+   instead of recalling them (gessum→gestum, reliqo/reliqere/reliquum→relinquo/-ere/
+   relictum, vensi/vensum→veni/ventum, tulum→latum, potere→posse). Right instinct,
+   fails exactly on irregulars. **The 4th part is week 3's participle factory —
+   needs recall-not-derivation by then. ACTION for w02/w03 planning: seed
+   irregular-parts verbs (fero, relinquo, gero, venio-family) into synopses and
+   parses; told him to recite all four parts during Anki. No drill unit.**
+2. **1st sg future-system endings: tenebim→tenebo, tenuerim→tenuero.** Cause
+   identified: the -bi-/-eri- SIGNALS taught in the lesson contract in exactly that
+   slot (-bo/-ero). Partly teaching artifact (signal taught without its bend). He
+   got `miserint` right in the same homework — it's one slot, not the system. Full
+   ending rows given in the eval. Watch 1st sg futures in future synopses.
+3. **`ierat` → "was traveling" (plupf of eo flattened to imperfect)** — the set's
+   one real tense miss. Form-recognition failure, not aspect failure: eo's perfect
+   stem `i-` wasn't projected from the recognition table's `iit`, so the (strong)
+   aspect machinery never engaged. Taught: iit/ierat/ierit column. Watch eo
+   perfect-system forms in readings.
+4. **`legatos` → "letters"** (= envoys; litteras would be letters). Joins the
+   NEAR-MISS family (accipio→"seize", peto→"achieve"): right semantic zone, wrong
+   resident. Named in eval with the Caesar's-legati hook. Watch legatus.
+5. Minor: `tulerunt` → "cast (ballot)" — suffragium ferre idiom from reading w01-4
+   STUCK (good) but overrode the core gloss (carried/bore); `egit` → "made/caused"
+   (ago = do/drive/conduct); Section A's check-afterward step didn't happen or
+   didn't catch (two catchable errors unmarked) — self-check protocol reinstated
+   gently.
+
+**Note for w01-4 and beyond:** the 3rd-iō imperfect `-i-` slip from the lesson
+(capēbat) was NOT retestable here (no 3rd-iō verb assigned) — the seed-a-3rd-iō-
+synopsis action item stays open.
+
+### 2026-07-15 Lesson w01-3 (active indicative system) — TAUGHT, on schedule, ~30 min
+
+**Overall: strong, exactly on the predicted profile — recognition solid, production is
+where the slips live, and every slip was load not gap.** Spent zero time re-proving
+recognition (readings already closed the tense watch) and put the whole session on
+PRODUCTION (synopses) and ASPECT, per the standing teaching note. Right call.
+
+**★ ASPECT IS A CONFIRMED, ARTICULABLE STRENGTH — now in reasoning, not just reading.**
+Drew the perfect/imperfect boundary unprompted ("complete is a sharp boundary between
+imperfect"; imperfect = "started, stopped, but not finished"). Nailed both aspect
+mini-scenes (futperf / plupf) instantly. The movable-camera model (completion relative to
+a sliding reference point) landed and he extended it himself. **Note for grading C:** the
+one refinement still open from reading w01-4 (blanket "used to X" for narrative
+imperfects) was NOT specifically drilled today — watch it in reading eval, not homework.
+
+**★ PRINCIPAL-PARTS RATIONALE: expert-level, unprompted.** Reconstructed all four parts
+from first principles incl. the infinitive disambiguating 3rd-iō `capere` from 4th
+`audīre`. Reasons from constraints; keep feeding the *why*.
+
+**Production works, with the expected load-slips (do NOT read as gaps):**
+- Built `capiō` 3rd-sg synopsis 5/6 first try. The miss: **3rd-iō `-i-` dropped under
+  load** — `capēbat` for `capiēbat` — yet kept correctly in `capiet` one line up. Slip.
+  Watch the 3rd-iō imperfect specifically; seed a 3rd-iō synopsis in a future set (none
+  in this homework — mittō/teneō).
+- **PRESENT-VS-FUTURE `-et`/`-it` TRAP — he fell in, as designed.** Read `pōnet` as
+  present from a nonexistent 2nd-conj "pōneō"; it's 3rd-conj `pōnō` → future. This is the
+  conjugation-class payoff. Taught reflex: "slippery `-et`/`-it` → check the conjugation."
+  **Homework B/C retests it (creabit, petent, the tense-driven C sentences) — grade
+  whether the reflex fired.** New watch item until homework confirms.
+- **`fuit` read as future** (perfect of sum; future is `erit`). Taught the hidden `fu-`
+  perfect stem + family (`potuit`, `voluit`). **Homework B7 `potuerat` (possum, `potu-`
+  stem) tests the recognition — watch it.**
+
+**Terminology:** called the 4th principal part the "gerund" (it's the perfect passive
+PARTICIPLE; gerund = verbal noun). Self-flagged uncertainty. Corrected; pre-seeds w03
+participles.
+
+**Meta:** poetic framings that are load-bearing intuitions, not decoration. Asked to
+pause once and came back sharp. Pushback/first-principles mode continues — the behavior
+we want.
+
 ### 2026-07-15 Reading w01-4 comitia EVALUATED (Fable 5)
 
 **Overall: comprehended. Hardest tense environment so far — three layers (perfect
@@ -483,6 +574,11 @@ duplicate in the evaluation); auctoritas was never assigned, genuinely new.
 Adjective glosses to watch (w01-2 homework): magnus→"strong", ingens→"brave" — fortis
 appears to be bleeding into ingens. C4 proves he knows magnus, so these are load slips,
 not gaps. If it recurs, a 3-way discrimination drill (magnus / ingens / fortis).
+
+Near-miss family (distinct from false friends — right semantic zone, wrong resident):
+accipio→"seize" (reading w01-3), peto→"achieve" ×2 (reading w01-3, since corrected —
+petent glossed correctly in homework w01-3), legatus→"letters" (homework w01-3;
+corrected with Caesar's-legati hook — watch next occurrence).
 
 False-friend list — established error family (5 members): magister→"magistrate",
 exspecto→"expect", consilium→"consensus" (w01-1, corrected), voco→"speaks" (reading

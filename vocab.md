@@ -171,7 +171,6 @@ Populus pācem vult; senātus **autem** bellum parat.
 
 ## Week 2
 
-## Mark to restart here when working with anki again
 * sequor, sequī, secūtus sum: (3rd conj., dep.) - to follow, pursue.<br>
 Mīlitēs ducem in perīculum **sequuntur**.
 * loquor, loquī, locūtus sum: (3rd conj., dep.) - to speak, talk.<br>
@@ -250,6 +249,8 @@ Nōn **sōlī** sumus; sociī veniunt.
 **Quālis** vir erat Gāius Gracchus?
 * ita: (adv.) - thus, so, in this way.<br>
 **Ita** rēs pūblica vulnerāta est.
+
+## Mark to restart here when working wtih ankin again
 * sīc: (adv.) - so, thus, in this manner.<br>
 **Sīc** semper tyrannīs!
 * tam: (adv., with adj./adv.) - so, to such a degree.<br>
