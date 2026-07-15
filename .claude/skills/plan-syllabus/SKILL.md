@@ -11,6 +11,10 @@ This is a big effort, and if you believe we are using the wrong model to do it, 
 You should use the files in the `./templates/` directory as needed to ensure the files you are creating and editting are following our agreed upon structure.
 
 In general, this planning will use the following workflow:
+- First, compress your notes: read `.claude/skills/compress-notes/SKILL.md` and follow
+  that procedure to distill your ./claude-notes/ space before consuming it. The freshly
+  distilled space is your planning brief. (Skip only if a compress run already happened
+  this session.)
 - Read and consider your ./claude-notes/ space
 - Read and consider the current `./syllabus.md` file
 - Read and consider the lesson-w<nn>-<m> lesson-notes.md files in the time span of the current `./syllabus.md` file.
