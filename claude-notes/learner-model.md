@@ -46,6 +46,82 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-16 Reading w01-5 patroni-et-clientes EVALUATED (Fable 5)
+
+**Overall: comprehended, word-level misses only — the structural headline is a WIN: the
+hardest sentence (`nam virum, qui... ducit, omnes magnum putant` — fronted object +
+embedded relative + predicate accusative with puto) reassembled correctly from
+constraints.** Bonus: `quos clientes vocat` (same double-acc construction) clean, and
+voco itself — false friend #4 from w01-1 — glossed correctly.
+
+**★ NEUTER-PL-AS-SG WATCH: REOPENED.** `Haec officia` → "This duty" (= "these duties"),
+instance #4, one reading after the watch closed. Mitigating layer: `haec` is fem. nom.
+sg. AND neut. nom./acc. pl. — identical surface form, and hic's paradigm is w02-2
+(untaught); he read `Haec salutatio` correctly in the same text. Taught: let the noun
+decide (officium n. → officia pl.). **ACTION for lesson w02-2: give haec's double
+identity explicit treatment — this instance is the perfect callback. Watch stays open;
+keep seeding -a neuter plurals.**
+
+**★ salutare → "salute" — SECOND lean on a corrected word (first was w01-4 salutabat).
+First break in the corrections-stick pattern.** Escalated per intervention-sizing rule:
+gave a real hook this time (salutare = "to wish salus," salve! connection; salus is on
+his w4 list). Told him third slip → proper drill. Watch salutare/salutatio specifically.
+
+**NEW FALSE FRIEND #6: servo → "serve"** (`patronos fideliter servant` → "serve the
+patrons"; servo = save/protect/keep — ON his Week 1 Anki list with that gloss; serve =
+servio + DAT). The most dangerous member yet: "clients serve patrons" is contextually
+plausible, so the odd-English alarm structurally CANNOT fire — only morphology saves him
+(patronos acc → must be servo). Taught case-as-tell + English split (preserve/observe <
+servo; serve/servant < servus/servio). NOTE for future materials: the sentence I
+generated is fine Latin (mutual-protection mirror was the design), but servo/servio is
+now a known collision — a future reading should seed servio + dat for the discrimination.
+
+**Locative CONFIRMED STUCK AND SELF-DEPLOYED:** met `nemo enim Romae solus est`
+(near-clone of w01-3's `Romae nemo`), read it right, asked for confirmation instead of
+theorizing — the exact behavior we want after the partitive-genitive wrong turn.
+Pre-lesson (w01-4 not yet taught). Abl of means also handled idiomatically pre-lesson,
+self-flagged. He keeps arriving at lessons pre-armed — w01-4 can start from HIS two
+deployments (means in line 1, Romae at the close).
+
+**enim signpost: trend right.** → "truly" (asseverative — real but not the job here);
+no purpose-clause distortion this time (w01-4 was "so that"). Still not "for." Watch
+continues, lighter.
+
+**consilium → "council"** (context = counsel/advice). English homophone slip riding the
+polysemy, not the plan-lock returning; comprehension right. Taught the counsel/council
+split as fossilized consilium polysemy. The institutional-COUNCIL watch was NOT tested
+(context here is advice, not a body).
+
+**Number-smoothing wrinkle (not counted as a miss):** `Cliens autem...` sg. rendered
+"Clients... he votes... walks" — the dangling "he" proves the singular WAS parsed;
+English output inconsistent. Named as odd-English-alarm cue instance #3 (consilium,
+nuntii, now this) but comprehension was intact.
+
+**vir potens → "man of means"** — semantic drift (potens = powerful), breaks the
+reading's potens→potestatem→potens ring. His [lit] bracket on potestas ("potential or
+means") was rewarded with the potestas (official) / potentia (informal clout — what a
+clientela actually confers) / imperium (his w01-2 thread) three-way. Also flagged to
+him that the reading's own `potestatem` is the loose choice — honesty about generated
+materials. potestas is on his w2 list.
+
+**★ SELF-DIRECTED MORPHOLOGY DISCOVERY — feed this behavior.** He found the -iter/-ter
+adverb pattern himself (fideliter, diligenter), researched the 1st/2nd 
+-ē type, and asked for traps + terminology. Gave: deadjectival adverbs of manner;
+stem+-iter with -nt-→-er refinement (his own two specimens are the two subtypes);
+traps = facile (neuter-acc adverb family multum/primum/ceterum — he met facile in
+w01-4), magne→magnopere/valde suppletion (tied explicitly to his derive-vs-recall
+principal-parts theme), bene/male short -e, the -ō clutch (subito/raro/primo/falso),
+comparison collapse (fortius/-issime). Possible Anki self-adds to watch for: fideliter,
+diligenter, magnopere.
+
+**Quiet wins:** suffragium ferre idiom third clean use — fully internalized, stop
+tracking. `in rebus difficilibus` (5th decl, untaught w02-1) frictionless. ipse/eorum/
+quos/eum/post se all correct pre-w02-2. prima luce (abl of time, untaught) clean.
+"cannot stand" kept indicative deliberately, with a note showing he understood WHY —
+modality discipline is real.
+
+**No new Anki self-adds noted in this reading (adverb pair candidates above).**
+
 ### 2026-07-15 Lesson w01-3 HOMEWORK (graded same day, Fable 5)
 
 **Strong pass. BOTH designed retests PASSED — close the watches:**
@@ -580,9 +656,14 @@ accipio→"seize" (reading w01-3), peto→"achieve" ×2 (reading w01-3, since co
 petent glossed correctly in homework w01-3), legatus→"letters" (homework w01-3;
 corrected with Caesar's-legati hook — watch next occurrence).
 
-False-friend list — established error family (5 members): magister→"magistrate",
+False-friend list — established error family (6 members): magister→"magistrate",
 exspecto→"expect", consilium→"consensus" (w01-1, corrected), voco→"speaks" (reading
-w01-1; voco IS in the w1 SRS block), hostis→"host" (lesson w01-2, corrected).
+w01-1; voco IS in the w1 SRS block; CLEAN in reading w01-5), hostis→"host" (lesson
+w01-2, corrected), servo→"serve" (reading w01-5; servo IS on w1 SRS with correct gloss;
+serve = servio + dat — taught case-as-tell; seed a servio discrimination in a future
+reading). Related but tracked separately: salutare→"salute" — corrected in w01-4,
+RECURRED in w01-5 (first corrections-stick break); salus-root hook given; third slip
+earns a drill.
 Mechanism: **the English cognate arrives before the Latin meaning does.** He needs the
 reflex "if it looks too helpful, be suspicious."
 
