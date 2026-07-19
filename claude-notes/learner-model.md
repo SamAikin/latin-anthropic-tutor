@@ -46,6 +46,90 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-19 Lesson w01-4 HOMEWORK (graded same day, Opus 4.8) — ★ TENSE WATCH RETIRED
+
+A 5/7 blanks · B 8/8 · C 5/5 substantially correct. Details in the lesson folder.
+
+**★ THE TENSE-UNDER-LOAD WATCH IS CLOSED.** Standing item since the placement diagnostic,
+escalated at w01-2, targeted at w01-3, and it now resolves. He slipped on `victus est` in
+the w01-4 lesson (4th instance in the family) and then, one hour later, produced
+`missae erant` → "had been sent" — a PLUPERFECT PASSIVE, the very structure he'd just
+missed — plus `pugnāverat`, iterative `dīcēbat` → "used to speak", `vēnērunt`. All clean.
+**Final diagnosis: his tense reading fails only on structures he has never had NAMED, and
+one naming fixes it permanently.** It was never a tense-knowledge deficit. Stop watching
+tense; start watching *unnamed structures*, which is a different and more useful thing.
+
+**Corrections stick, now demonstrated at one-hour latency, twice on the same page:**
+- Mislabelled `duābus hōrīs` "time when" in the chair → labelled `paucīs diēbus` "time
+  within" correctly in the homework.
+- Taught the interlocked `summā cum laude` manner rule → read `magnā cum cūrā` cold.
+This extends the established corrections-stick pattern (see false-friend section) from
+vocabulary to GRAMMAR and to metalanguage. Intervention sizing confirmed: name it once,
+don't drill it.
+
+**Derived `per` + acc. (intermediary) unaided.** Split `ā praetōre` (agent) from
+`per servum` (go-between) and rendered "via a slave" — construction never taught. Third
+first-principles derivation in two days (also: the ablative-agent animacy criterion, the
+optional-`cum` manner rule).
+
+**★ ERROR PROFILE HAS MIGRATED DOWN THE STACK.** Both misses were MORPHOLOGY, not syntax:
+- `fluminem` for `flūmen` — **neuter nom.=acc.** He applied the 3rd-decl. m./f. procedure
+  (stem + `-em`), which is right for `mīles/mīlitem`, `urbs/urbem`. Neuters opt out. FIRST
+  appearance; high blast radius (`nōmen, corpus, tempus, iter, opus`).
+- `illā diē` for `illō diē` — **gender agreement across a declension boundary.** The noun
+  form `diē` was CORRECT on untaught 5th decl.; he matched the modifier to the noun's
+  *sound* rather than its gender. `diēs` is m. (f. only = "appointed day"). Same shape
+  will bite on `magnus exercitus`, `hoc tempus`.
+- Encouraging counter-evidence: `senātū` (4th decl.) and `dē rē pūblicā` (5th decl.) both
+  correct, untaught. Partial pre-installation from his school Latin.
+
+**Vocab:** `litterae` pl. = *a letter/dispatch*; he read "the letters." Not an error family
+member — a real lexical fact he hadn't met. Preserved `mōs maiōrum` untranslated on his
+own initiative, correctly, with a note that it's a technical term.
+
+**Self-flagging remains reliable enough to grade as evidence.** Three flags this page
+(A2 singular, B3 dative ruled out, C5 `mōs maiōrum`), all three correct.
+
+**W02 planning input:** the open front is **noun morphology + agreement**, NOT syntax.
+Seed a neuter 3rd-decl. accusative and a demonstrative agreeing with a 4th/5th-decl. noun.
+Do not re-test prepositions, case idioms, or tense — all closed.
+
+### 2026-07-19 Lesson w01-4 (prepositions + case idioms) — TAUGHT, ~30 min, WEEK 1 CLOSED
+
+Full write-up in lessons/lesson-w01-4/lesson-notes.md. Model-level takeaways:
+
+**New and important: he does SYSTEM-BUILDING, not rule-collection.** The opening question
+asked only what case does to `in`. He returned the unifying principle for the entire
+lesson — ablative = "specific and fixed," accusative = "change or area/extent" — and
+extended it to the time axis (time-when vs duration) before seeing a single time idiom.
+Grammars present these as four unrelated rules. He fused them unprompted. Then, given a
+mixed preposition list, he sorted 8/8 AND correctly identified the exact subset his own
+principle could not explain (sine spe, de morte, e templo, contra leges). **Diagnosing the
+boundary of his own model is the strongest cognitive signal seen so far.** He also derived
+the ablative-of-agent animacy criterion from first principles off gladio vs a milite, and
+inferred the optional-`cum` manner rule from remembering *summa cum laude*.
+
+**Teaching consequence (now a standing directive, see lessons-learned):** teach him ABOVE
+the planned altitude. Rationale and etymology are load-bearing hooks for him, not garnish
+— the PIE three-case-fusion account of the ablative (locative + instrumental + separative)
+retro-explained his own "these don't fit" flags and visibly locked the material. Best
+format found: mixed set + "sort these AND flag what your principle fails on," then teach
+the second principle as the payoff for his flags.
+
+**Tense-under-load pattern REFINED (3rd instance).** `victus est` → "is defeated" (perfect
+passive). With `fuit`→future (w01-3) and `pōnet`→present (w01-3), the pattern is now
+specific: **his tense reading degrades when the STRUCTURE is unfamiliar, not when the
+vocabulary is.** Here the structure was the passive periphrasis — Week 2 material he has
+not been taught. Reading ahead of instruction, so this is instruction debt, not a defect.
+Re-check after w02 teaches the passive; if it persists WITH the structure known, it
+becomes a real target.
+
+**Minor:** mislabeled `duābus hōrīs` as "time when" (it is time-within) while translating
+it correctly and having described the time-within logic himself two turns prior. His
+metalanguage lags his concepts. Prefer probing the concept over the label name.
+
+**Unprompted correct observation:** flagged the `-īs` dative/ablative syncretism himself.
+
 ### 2026-07-18 Reading w01-6 primus-dies-consulis EVALUATED (Fable 5) — WEEK 1 SYNTHESIS
 
 **Overall: cleanest reading of the week, on the hardest design. The synthesis reading's
