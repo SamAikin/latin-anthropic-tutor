@@ -46,6 +46,74 @@ Founding entry: 2026-07-11 (framework planning session, before any lessons).
 
 ## Signals (update after every graded homework and evaluated reading)
 
+### 2026-07-18 Reading w01-6 primus-dies-consulis EVALUATED (Fable 5) — WEEK 1 SYNTHESIS
+
+**Overall: cleanest reading of the week, on the hardest design. The synthesis reading's
+tense payload was read almost perfectly: 5 pluperfects all "had X-ed", gnomic present
+held inside past narrative, and the designed centerpiece `Si... gessero... deponam` →
+"If I will have conducted... I will lay down" — FUTURE PERFECT RECOGNIZED, proven by
+deliberately stiff English (same evidence pattern as the w01-3 si-clause). One tense
+miss in the whole piece.**
+
+**WATCH RESOLUTIONS (many at once — this reading was the venue several watches were
+waiting for):**
+- **★ NEUTER-PL-AS-SG: RE-CLOSED.** `magna officia` → "great duties" (the EXACT word
+  that reopened it in w01-5) AND `Bella` → "Wars" (the word that started it) — both
+  signature failure words clean in one reading. Reopen only on a new instance.
+- **★ enim: CLOSED.** → "for" ("for the people had elected him"). Trajectory was
+  "so that" (w01-4) → "truly" (w01-5) → "for" (now). Done.
+- **servo: correction STUCK.** `servat` → "protects" one reading after the w01-5
+  "serve" miss. Corrections-stick pattern restored for this word.
+- **salutare: CLEAN after 2 slips** (`salutabant` → "greeted") — the salus-root hook
+  worked. No drill. One more clean occurrence → stop tracking.
+- **exspecto: clean** ("await"). accipio: clean ("received").
+- **★ peto: near-miss FIXED AND IDIOM DEPLOYED.** `consulatum diu petiverat` → "had
+  campaigned for the consulship" — the honores-petere candidacy idiom from the w01-3
+  eval, actively used. Also `petam` → "seek (counsel)". Stop tracking peto.
+- **consilium: right sense AND right spelling** ("counsel" in the advice context) one
+  reading after the council/counsel homophone note. The institutional-COUNCIL sense
+  still untested — that watch (from w01-2) stays open, background only.
+- **eo perfect system: PASSED.** Bare `iit` → past ("walked"), after `ierat` flattened
+  in w01-3 homework. The iit/ierat/ierit column landed.
+- **fu- hidden perfect stem: holding.** `fuit` → past, clean.
+
+**★ THE ONE MISS — REOPEN -et/-it 3RD-SG FUTURE TRAP, NARROWLY.** `Hodie... aget` →
+"is experiencing" (= "will spend"; diem agere idiom sense was right, only the tense
+slipped). The exact ponet-trap from lesson w01-3; reflex fired in homework (petent,
+creabit) but not here. Mitigation: `Hodie` biases English toward present and context
+doesn't force futurity. Critical scoping evidence: `petam`/`deponam` (1st sg futures)
+correct IN THE SAME READING — so it is the 3rd-sg -et slot specifically when context
+is permissive, not the future system. **ACTION for w02 readings: keep seeding 3rd-conj
+3rd-sg -et futures in contexts that don't disambiguate.**
+
+**suus/eius SELF-RESEARCHED PRE-LESSON** (w02-2 topic): he looked up the reflexive
+distinction himself for `consulatus sui` and got it right. Fifth instance of arriving
+at a lesson pre-armed (locative, abl of means, adverbs, hic-awareness, now suus).
+Lesson w02-2 can start from HIS question.
+
+**Aspect meta-behavior matured:** rendered imperfect `salutabant` as simple past WITH
+a note flagging the choice — deliberate smoothing with the Latin visibly seen. This is
+the endpoint we wanted from the w01-4 "used to X" refinement; consider that thread
+resolved.
+
+**Smaller:** `verba fecit` → "said" (3rd meeting; comprehended but register flattened
+each time — mentioned "addressed them"); `non se ipsum` → "not he himself" (English
+case slip; acc object; w02-2 will formalize); "rights" for "rites" (pure English
+homophone, noted in passing); magna voce asked as means → taught means/manner border
+(manner; cum optional with adjective) — feeds lesson w01-4 if still unrun, else
+confirms it.
+
+**Historical rewards given:** patres conscripti origin story (his "formal and slightly
+pedantic" instinct was right); sententiam dicere as senate procedure + pedibus in
+sententiam ire (tied to HIS self-added Anki word sententia — self-add → read-in-context
+loop closed and named to him).
+
+**No new Anki self-adds noted in this reading.**
+
+**WEEK 1 READING SLATE COMPLETE (6/6). Verdict for w02 planning: the full
+active-indicative tense system is functioning as reading equipment; production
+(principal parts, 1st-sg future endings) remains the open front per w01-3 homework.**
+
 ### 2026-07-16 Reading w01-5 patroni-et-clientes EVALUATED (Fable 5)
 
 **Overall: comprehended, word-level misses only — the structural headline is a WIN: the
