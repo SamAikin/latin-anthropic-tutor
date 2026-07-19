@@ -60,3 +60,36 @@ Grammatical + classical in construction; collocation preference only — do not 
 (18th-c. motto, not Roman — but legal Latin), `portās rūpērunt`, `potentiam iūnxērunt`,
 `crīmen maiestātis` (Tacitean register, not a Republican-era collocation, but *crīmen* +
 gen. of the charge is Ciceronian).
+
+## ★ PLAN/HOMEWORK OVERLAP IS A SYSTEMATIC PLAN-SYLLABUS DEFECT (2026-07-19)
+
+Three lessons in a row — w01-2, w01-3, w01-4 — the planned lesson examples duplicated
+homework items, and each time I caught it *in the chair* and substituted fresh material
+live. w01-4 was the worst: the plan's sort list and idiom set matched homework A1/A2/A3,
+B3/B4, C1/C4/C5 nearly item-for-item.
+
+**This is not bad luck; it is a missing check.** plan-syllabus writes lesson-notes.md and
+homework.md in the same pass and naturally reaches for the same exemplars.
+
+**Fix, at PLAN time:** after drafting a lesson's example set and its homework, diff them.
+Any Latin phrase, verb+person, or sentence frame appearing in both must be replaced in
+the LESSON (homework is the assessment; it wins). Record the substitution in the plan so
+the tutor is not re-deriving it under time pressure.
+
+**Interim mitigation for teach-lesson:** read homework.md BEFORE teaching, always, and
+treat the plan's examples as drafts to be checked against it.
+
+## ★ TEACH THIS LEARNER ABOVE THE PLANNED ALTITUDE (2026-07-19)
+
+Twice now (w01-3, w01-4) the planned drill went redundant within four minutes because he
+produced the lesson's thesis unprompted. In w01-4 it happened on the FIRST reply. He does
+not need reps to install a rule. He needs (a) the rule's *rationale* — etymology, historical
+mechanism, why the language is shaped this way — and (b) its *boundary cases*, the places
+his own model stops predicting. He generates the reps himself.
+
+**Concrete pattern that works:** give a mixed set, ask him to sort it AND to flag which
+items his own principle fails to explain. He flags them accurately. Then teach the second
+principle as the payoff for his flags. This turns a drill into a discovery.
+
+Plans should therefore budget less time for practice and more for depth, and should carry
+a prepared "if he gets it immediately, go here" escalation for each concept.
